@@ -1,0 +1,48 @@
+
+-------------------- 2024-11-13 16:49:34 --------------------
+
+Notification.notify() got an unexpected keyword argument 'time'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-13 17:52:00 --------------------
+
+invalid literal for int() with base 10: 'P'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-13 18:00:00 --------------------
+
+[Errno 22] Invalid argument: 'C:\\Users\\msi\\Pictures\\organized_screenshots\\Google Chrome\\Share | Search Results.png'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-13 18:00:01 --------------------
+
+[Errno 22] Invalid argument: 'C:\\Users\\msi\\Pictures\\organized_screenshots\\Google Chrome\\Share | Search Results.png'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-13 18:01:58 --------------------
+
+[WinError 183] Cannot create a file when that file already exists: 'C:\\Users\\msi\\Pictures\\organized_screenshots\\\\'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-14 16:31:00 --------------------
+
+[WinError 3] The system cannot find the path specified: 'C:\\Users\\msi\\Pictures\\organized_screenshots\\'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-14 16:31:34 --------------------
+
+[WinError 3] The system cannot find the path specified: 'F:\\organized_screenshotsVisual Studio Code\\'
+
+-------------------- [END OF THIS ERROR] --------------------
+
+-------------------- 2024-11-14 16:32:02 --------------------
+
+[WinError 183] Cannot create a file when that file already exists: 'F:\\organized_screenshots\\\\'
+
+-------------------- [END OF THIS ERROR] --------------------
